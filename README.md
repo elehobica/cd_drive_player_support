@@ -11,6 +11,8 @@ Connect the drive, insert an audio CD, and listen through headphones, an amplifi
 
 The player works as a USB host and reads the audio data from the disc digitally, so it works with the USB CD/DVD drives that are easy to find today, including SATA drives through a USB-SATA adapter.
 
+The player is available on [Etsy](https://elehobica.etsy.com/listing/4607409462).
+
 ### Key features
 
 - Plays audio CDs with a USB CD/DVD drive, without a PC
@@ -64,3 +66,7 @@ Reports are reviewed by the maintainer before they are published.
 
 - Drive reports and their photos are published under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
 - Product photos: all rights reserved.
+
+---
+
+This page is also published at [elehobica.github.io/cd_drive_player_support](https://elehobica.github.io/cd_drive_player_support/).
