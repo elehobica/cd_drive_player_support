@@ -2,6 +2,8 @@
 
 Support information for the CD Drive Player (CDDP-100), a player that turns a USB CD/DVD drive into an audio CD player.
 
+<img src="images/CD_Drive_Player_scene01.jpg" width="320" />
+
 ## About the player
 
 CD Drive Player turns a USB CD/DVD drive into a standalone audio CD player.
