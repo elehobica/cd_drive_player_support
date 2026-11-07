@@ -46,12 +46,16 @@ The player works as a USB host and reads the audio data from the disc digitally,
 - Connect only one CD/DVD drive to the USB-A port, without a USB hub.
 - A drive needs a large current while the disc spins up. If your drive has its own power input (such as the auxiliary plug of a Y cable or the power adapter of a drive enclosure), connect that power first.
 
+### User Guide
+
+- [CD Drive Player User Guide](docs/CD_Drive_Player_User_Guide_rev1.2.pdf)
+
 ## Drive compatibility
 
 - [Drive compatibility list](drives/README.md): USB CD/DVD drives tested by the maintainer and reported by users
 - [Report your drive](https://docs.google.com/forms/d/e/1FAIpQLSfNHyWI4UzrhYMMLvaGWSQck-JyMFxhJAjfBhDYurqOIGMEGg/viewform): tell us how your drive works with the player (a Google account is needed)
 
-Before reporting, open CONFIG > ABOUT on the player with the drive connected (see the user guide).
+Before reporting, open CONFIG > ABOUT on the player with the drive connected (see the [user guide](docs/CD_Drive_Player_User_Guide_rev1.2.pdf)).
 The form asks for the four lines on that screen (FW, USB, VND, PRD) and a photo of it.
 
 Reports are reviewed by the maintainer before they are published.
