@@ -11,4 +11,8 @@ Before reporting, open CONFIG > ABOUT on the player with the drive connected (se
 The form asks for the four lines on that screen (FW, USB, VND, PRD) and a photo of it.
 
 Reports are reviewed by the maintainer before they are published.
-Reports and photos are published under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+
+## License
+
+- Drive reports and their photos are published under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+- Product photos: all rights reserved.
