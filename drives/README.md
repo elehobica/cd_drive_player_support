@@ -18,6 +18,7 @@ A drive of the same model may also behave differently with another USB bridge (U
 | LG (Hitachi-LG Data Storage) | Super Multi DVD Writer | HL-DT-ST | DVDRAM GUE1N | 13FD:0840 | Slim SATA + adapter | Player only | ✅ Works | Elehobica | [r0002](reports/r0002/README.md) |
 | OEM | External ODD&HDD Device (AIYOUWEI) | hp | CDDVDW TS-L633N | 13FD:0840 | Slim USB | Player only | ❌ Does not work | Elehobica | [r0010](reports/r0010/README.md) |
 | OEM | External ODD&HDD Device (Model NO.: ECD829) | PLDS | DVD-RW DS8A9SH | 13FD:0840 | Slim USB | Player only | ⚠️ Drive issue? | Elehobica | [r0009](reports/r0009/README.md) |
+| OEM | MBF-U2ODD | HL-DT-ST | DVDROM DT30N | 13FD:0840 | Slim USB | Extra 5 V | 🟡 With workaround | Elehobica | [r0011](reports/r0011/README.md) |
 | OEM | USB Slim Portable Optical Drive | TEAC | DV-28S-V | 13FD:0840 | Slim USB | Extra 5 V | 🟠 Partially | Elehobica | [r0005](reports/r0005/README.md) |
 
 Brand: the brand the drive is sold under (OEM: no brand). Name: the name or model printed on the drive.
