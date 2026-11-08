@@ -24,7 +24,7 @@
 
 ## Comment
 
-The power consumption is high. The tray may occasionally be ejected unexpectedly during playback.
+The power consumption is high. The tray may occasionally be ejected unexpectedly during playback. Don't supply the power from USB-C Y cable, otherwise USB is not recognized.
 
 ## Photos
 
