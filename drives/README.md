@@ -9,12 +9,14 @@ A drive of the same model may also behave differently with another USB bridge (U
 
 **Your drive is not listed, or behaves differently? [Report it](https://docs.google.com/forms/d/e/1FAIpQLSfNHyWI4UzrhYMMLvaGWSQck-JyMFxhJAjfBhDYurqOIGMEGg/viewform)** (a Google account is needed).
 
-| Vendor | Product | USB ID | Drive type | Power | Result | By | Report |
-|---|---|---|---|---|---|---|---|
-| HL-DT-ST | DVDRAM GUE1N | 13FD:0840 | Slim + adapter | Player only | ✅ Works | Elehobica | [r0002](reports/r0002/README.md) |
-| hp | CDDVDW  GP70N | 0E8D:1887 | Slim USB | Player only | ✅ Works | Elehobica | [r0001](reports/r0001/README.md) |
+| Drive | Vendor | Product | USB ID | Drive type | Power | Result | By | Report |
+|---|---|---|---|---|---|---|---|---|
+| HP / HP USB External DVDRW Drive | hp | CDDVDW  GP70N | 0E8D:1887 | Slim USB | Player only | ✅ Works | Elehobica | [r0001](reports/r0001/README.md) |
+| LG / Super Multi DVD Writer | HL-DT-ST | DVDRAM GUE1N | 13FD:0840 | Slim + adapter | Player only | ✅ Works | Elehobica | [r0002](reports/r0002/README.md) |
 
-Vendor, Product and USB ID are as shown on CONFIG > ABOUT of the player.
+Drive: the brand the drive is sold under (OEM: no brand) and the name printed on the drive.
+Vendor, Product and USB ID are as shown on CONFIG > ABOUT of the player:
+Vendor and Product come from the drive mechanism, USB ID from the USB bridge.
 Power: "Player only" is the drive powered from CD DRIVE USB alone,
 "Extra 5 V" is an extra 5 V supply to the drive (Y cable or auxiliary input).
 

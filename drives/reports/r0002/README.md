@@ -1,12 +1,13 @@
 <!-- generated, do not edit -->
-# HL-DT-ST DVDRAM GUE1N (r0002)
+# LG / Super Multi DVD Writer: HL-DT-ST DVDRAM GUE1N (r0002)
 
 | Item | Value |
 |---|---|
+| Brand | LG |
+| Name on the drive | Super Multi DVD Writer |
 | Vendor (VND) | HL-DT-ST |
 | Product (PRD) | DVDRAM GUE1N |
 | USB ID | 13FD:0840 |
-| Name on the drive | Super Multi DVD Writer |
 | Drive type | Slim drive with a USB-SATA adapter cable |
 | Power to the drive | From the player only (CD DRIVE USB) |
 | Power adapter of the player | USB PD 20 W |

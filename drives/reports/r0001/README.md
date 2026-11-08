@@ -1,12 +1,13 @@
 <!-- generated, do not edit -->
-# hp CDDVDW  GP70N (r0001)
+# HP / HP USB External DVDRW Drive: hp CDDVDW  GP70N (r0001)
 
 | Item | Value |
 |---|---|
+| Brand | HP |
+| Name on the drive | HP USB External DVDRW Drive |
 | Vendor (VND) | hp |
 | Product (PRD) | CDDVDW  GP70N |
 | USB ID | 0E8D:1887 |
-| Name on the drive | HP USB External DVDRW Drive |
 | Drive type | Slim external USB drive (ready-made or in an enclosure) |
 | Power to the drive | From the player only (CD DRIVE USB) |
 | Power adapter of the player | PD 20 W |
