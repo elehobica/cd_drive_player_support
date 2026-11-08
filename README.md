@@ -1,4 +1,4 @@
-# CD Drive Player (CDDP-100) support
+# CD Drive Player: CDDP-100
 
 Support information for the CD Drive Player (CDDP-100), a player that turns a USB CD/DVD drive into an audio CD player.
 
