@@ -12,6 +12,7 @@ A drive of the same model may also behave differently with another USB bridge (U
 | Brand | Name | Vendor | Product | USB ID | Drive type | Power | Result | By | Report |
 |---|---|---|---|---|---|---|---|---|---|
 | HP | HP USB External DVDRW Drive | hp | CDDVDW  GP70N | 0E8D:1887 | Slim USB | Player only | ✅ Works | Elehobica | [r0001](reports/r0001/README.md) |
+| LG (Hitachi-LG Data Storage) | Sli Portable Blu-ray / DVD Writer | HL-DT-ST | BD-RE BP50NB40 | 152E:2571 | Slim USB | Player only | ✅ Works | Elehobica | [r0006](reports/r0006/README.md) |
 | LG (Hitachi-LG Data Storage) | Super Multi DVD Writer | HL-DT-ST | DVDRAM GUE1N | 13FD:0840 | Slim + adapter | Player only | ✅ Works | Elehobica | [r0002](reports/r0002/README.md) |
 | OEM | USB Slim Portable Optical Drive | TEAC | DV-28S-V | 13FD:0840 | Slim USB | Extra 5 V | 🟠 Partially | Elehobica | [r0005](reports/r0005/README.md) |
 
