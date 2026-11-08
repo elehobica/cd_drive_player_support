@@ -22,6 +22,10 @@
 | Reported by | Elehobica |
 | Date | 2026-11-08 |
 
+## Comment
+
+Don't supply the power from USB-C Y cable, otherwise USB is not recognized.
+
 ## Photos
 
 <img src="about.jpg" alt="ABOUT screen" width="400">

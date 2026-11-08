@@ -24,7 +24,7 @@
 
 ## Comment
 
-The eject switch mechanism is unstable; the tray may occasionally be ejected unexpectedly during playback.
+The eject switch mechanism is unstable; the tray may occasionally be ejected unexpectedly during playback. Don't supply the power from USB-C Y cable, otherwise USB is not recognized.
 
 ## Photos
 
