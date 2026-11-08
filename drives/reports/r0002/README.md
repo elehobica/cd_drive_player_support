@@ -22,6 +22,10 @@
 | Reported by | Elehobica |
 | Date | 2026-11-08 |
 
+## Comment
+
+The adapter is OEM USB 2.0 to Mini SATA II adapter.
+
 ## Photos
 
 <img src="about.jpg" alt="ABOUT screen" width="400">
