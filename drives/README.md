@@ -11,6 +11,7 @@ A drive of the same model may also behave differently with another USB bridge (U
 
 | Vendor | Product | USB ID | Drive type | Power | Result | By | Report |
 |---|---|---|---|---|---|---|---|
+| HL-DT-ST | DVDRAM GUE1N | 13FD:0840 | Slim + adapter | Player only | ✅ Works | Elehobica | [r0002](reports/r0002/README.md) |
 | hp | CDDVDW  GP70N | 0E8D:1887 | Slim USB | Player only | ✅ Works | Elehobica | [r0001](reports/r0001/README.md) |
 
 Vendor, Product and USB ID are as shown on CONFIG > ABOUT of the player.
