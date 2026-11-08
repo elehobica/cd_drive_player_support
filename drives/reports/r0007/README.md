@@ -24,7 +24,7 @@
 
 ## Comment
 
-The sound drops happen only for the first time from power-up of the drive. It works well after that.
+The sound drops happen only for the first time from power-up of the drive. It works well after that. The ataptor is UGREEN USB 3.0 to SATA III Hard Drive Adaptor Model 20231.
 
 ## Photos
 
