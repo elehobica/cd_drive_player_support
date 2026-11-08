@@ -1,9 +1,9 @@
 <!-- generated, do not edit -->
-# LG / Super Multi DVD Writer: HL-DT-ST DVDRAM GUE1N (r0002)
+# LG (Hitachi-LG Data Storage) / Super Multi DVD Writer: HL-DT-ST DVDRAM GUE1N (r0002)
 
 | Item | Value |
 |---|---|
-| Brand | LG |
+| Brand | LG (Hitachi-LG Data Storage) |
 | Name on the drive | Super Multi DVD Writer |
 | Vendor (VND) | HL-DT-ST |
 | Product (PRD) | DVDRAM GUE1N |
