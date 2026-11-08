@@ -23,5 +23,6 @@ Vendor, Product and USB ID are as shown on CONFIG > ABOUT of the player:
 Vendor and Product come from the drive mechanism, USB ID from the USB bridge.
 Power: "Player only" is the drive powered from CD DRIVE USB alone,
 "Extra 5 V" is an extra 5 V supply to the drive (Y cable or auxiliary input).
+Drive issue?: the reporter's drive seemed to have a problem of its own. Other units of the same model may behave differently.
 
 Drive reports and their photos are published under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
