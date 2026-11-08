@@ -20,6 +20,7 @@ A drive of the same model may also behave differently with another USB bridge (U
 | OEM | External ODD&HDD Device (ECD829) (NEXT-100DVD-RW) | MATSHITA | DVD-RAM UJ8DB | 13FD:0840 | Slim USB | Player only | ✅ Works | Elehobica | [r0012](reports/r0012/README.md) |
 | OEM | External ODD&HDD Device (Model NO.: ECD829) | PLDS | DVD-RW DS8A9SH | 13FD:0840 | Slim USB | Player only | ⚠️ Drive issue? | Elehobica | [r0009](reports/r0009/README.md) |
 | OEM | MBF-U2ODD | HL-DT-ST | DVDROM DT30N | 13FD:0840 | Slim USB | Extra 5 V | 🟡 With workaround | Elehobica | [r0011](reports/r0011/README.md) |
+| OEM | USB 2.0 Slim Optical Drive Enclosure (NEXT-101DVD-COMBO) | TSSTcorp | DVD+-RW TS-U633A | 1132:4511 | Slim USB | Extra 5 V | 🟡 With workaround | Elehobica | [r0013](reports/r0013/README.md) |
 | OEM | USB Slim Portable Optical Drive | TEAC | DV-28S-V | 13FD:0840 | Slim USB | Extra 5 V | 🟠 Partially | Elehobica | [r0005](reports/r0005/README.md) |
 
 Brand: the brand the drive is sold under (OEM: no brand). Name: the name or model printed on the drive.
