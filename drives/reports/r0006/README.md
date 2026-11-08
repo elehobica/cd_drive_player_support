@@ -1,10 +1,10 @@
 <!-- generated, do not edit -->
-# LG (Hitachi-LG Data Storage) / Sli Portable Blu-ray / DVD Writer: HL-DT-ST BD-RE BP50NB40 (r0006)
+# LG (Hitachi-LG Data Storage) / Slim Portable Blu-ray / DVD Writer: HL-DT-ST BD-RE BP50NB40 (r0006)
 
 | Item | Value |
 |---|---|
 | Brand | LG (Hitachi-LG Data Storage) |
-| Name on the drive | Sli Portable Blu-ray / DVD Writer |
+| Name on the drive | Slim Portable Blu-ray / DVD Writer |
 | Vendor (VND) | HL-DT-ST |
 | Product (PRD) | BD-RE BP50NB40 |
 | USB ID | 152E:2571 |
