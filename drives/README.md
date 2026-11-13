@@ -12,6 +12,7 @@ A drive of the same model may also behave differently with another USB bridge (U
 | Brand | Name | Vendor | Product | USB ID | Drive type | Power | Result | By | Report |
 |---|---|---|---|---|---|---|---|---|---|
 | ASUS | Super Multi DVD Writer | ASUS | DRW-24D5MT | 174C:55AA | 5.25" SATA + adapter | 12 V | 🟠 Partially | Elehobica | [r0007](reports/r0007/README.md) |
+| ASUS | Zen Drive SDRW-08U7M-U | ASUS | SDRW-08U7M-U | 0E8D:1887 | Slim USB | Player only | ✅ Works | Elehobica | [r0015](reports/r0015/README.md) |
 | HP | HP USB External DVDRW Drive | hp | CDDVDW  GP70N | 0E8D:1887 | Slim USB | Player only | ✅ Works | Elehobica | [r0001](reports/r0001/README.md) |
 | LG (Hitachi-LG Data Storage) | BD-ROM/DVD Rewriter | HL-DT-ST | BDDVDRW CH10LS28 | 174C:55AA | 5.25" SATA + adapter | 12 V | 🟠 Partially | Elehobica | [r0008](reports/r0008/README.md) |
 | LG (Hitachi-LG Data Storage) | Slim Portable Blu-ray / DVD Writer | HL-DT-ST | BD-RE BP50NB40 | 152E:2571 | Slim USB | Player only | ✅ Works | Elehobica | [r0006](reports/r0006/README.md) |
