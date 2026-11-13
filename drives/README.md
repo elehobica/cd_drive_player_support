@@ -16,6 +16,7 @@ A drive of the same model may also behave differently with another USB bridge (U
 | LG (Hitachi-LG Data Storage) | BD-ROM/DVD Rewriter | HL-DT-ST | BDDVDRW CH10LS28 | 174C:55AA | 5.25" SATA + adapter | 12 V | 🟠 Partially | Elehobica | [r0008](reports/r0008/README.md) |
 | LG (Hitachi-LG Data Storage) | Slim Portable Blu-ray / DVD Writer | HL-DT-ST | BD-RE BP50NB40 | 152E:2571 | Slim USB | Player only | ✅ Works | Elehobica | [r0006](reports/r0006/README.md) |
 | LG (Hitachi-LG Data Storage) | Super Multi DVD Writer | HL-DT-ST | DVDRAM GUE1N | 13FD:0840 | Slim SATA + adapter | Player only | ✅ Works | Elehobica | [r0002](reports/r0002/README.md) |
+| OEM | External ODD&HDD Device | HL-DT-ST | DVDRAM GT20L | 13FD:0840 | Slim USB | Player only | 🟡 With workaround | Elehobica | [r0014](reports/r0014/README.md) |
 | OEM | External ODD&HDD Device (AIYOUWEI) | hp | CDDVDW TS-L633N | 13FD:0840 | Slim USB | Player only | ❌ Does not work | Elehobica | [r0010](reports/r0010/README.md) |
 | OEM | External ODD&HDD Device (ECD829) (NEXT-100DVD-RW) | MATSHITA | DVD-RAM UJ8DB | 13FD:0840 | Slim USB | Player only | ✅ Works | Elehobica | [r0012](reports/r0012/README.md) |
 | OEM | External ODD&HDD Device (Model NO.: ECD829) | PLDS | DVD-RW DS8A9SH | 13FD:0840 | Slim USB | Player only | ⚠️ Drive issue? | Elehobica | [r0009](reports/r0009/README.md) |
