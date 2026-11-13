@@ -1,10 +1,10 @@
 <!-- generated, do not edit -->
-# ASUS / Zen Drive U8M (SDRW-08U8M-U): ASUS SDRW-08U8M-U (r0016)
+# ASUS / ZenDrive U8M (SDRW-08U8M-U): ASUS SDRW-08U8M-U (r0016)
 
 | Item | Value |
 |---|---|
 | Brand | ASUS |
-| Name on the drive | Zen Drive U8M (SDRW-08U8M-U) |
+| Name on the drive | ZenDrive U8M (SDRW-08U8M-U) |
 | Vendor (VND) | ASUS |
 | Product (PRD) | SDRW-08U8M-U |
 | USB ID | 0E8D:1887 |
