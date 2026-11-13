@@ -1,10 +1,10 @@
 <!-- generated, do not edit -->
-# ASUS / Zen Drive SDRW-08U7M-U: ASUS SDRW-08U7M-U (r0015)
+# ASUS / ZenDrive SDRW-08U7M-U: ASUS SDRW-08U7M-U (r0015)
 
 | Item | Value |
 |---|---|
 | Brand | ASUS |
-| Name on the drive | Zen Drive SDRW-08U7M-U |
+| Name on the drive | ZenDrive SDRW-08U7M-U |
 | Vendor (VND) | ASUS |
 | Product (PRD) | SDRW-08U7M-U |
 | USB ID | 0E8D:1887 |
