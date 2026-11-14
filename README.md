@@ -51,7 +51,7 @@ The player is available on [Etsy](https://elehobica.etsy.com/listing/4607409462)
 
 ### User Guide
 
-- [CD Drive Player User Guide](docs/CD_Drive_Player_User_Guide_rev1.2.pdf)
+- [CD Drive Player User Guide](docs/CD_Drive_Player_User_Guide_rev1.3.pdf)
 
 ## Supported drives
 
@@ -87,7 +87,7 @@ including drives that do not work. Your reports make this information more usefu
 This information is for reference.
 A drive listed there as working is not covered by the guarantee unless it is one of the [supported drives](#supported-drives).
 
-Before reporting, open CONFIG > ABOUT on the player with the drive connected (see the [user guide](docs/CD_Drive_Player_User_Guide_rev1.2.pdf)).
+Before reporting, open CONFIG > ABOUT on the player with the drive connected (see the [user guide](docs/CD_Drive_Player_User_Guide_rev1.3.pdf)).
 The form asks for the four lines on that screen (FW, USB, VND, PRD) and a photo of it.
 
 Reports are reviewed before they are published.
