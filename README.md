@@ -57,10 +57,12 @@ The player is available on [Etsy](https://elehobica.etsy.com/listing/4607409462)
 
 Operation is guaranteed with the bundled drive and with the drives below (brand / model number).
 
+- ASUS / SDRW-08U7M-U
+- ASUS / SDRW-08U8M-U (USB-C (female) to USB-A (male) adapter Required)
+- ASUS / SDRW-08U9M-U
+- Dell / DW316
 - HP / F2B56AA
 - HP / GP70N
-- ASUS / SDRW-08U7M-U
-- Dell / DW316
 - LG (Hitachi-LG Data Storage) / GP62NB60, GP62NW60
 - LG (Hitachi-LG Data Storage) / GP65NB60, GP65NW60
 
