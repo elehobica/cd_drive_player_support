@@ -12,7 +12,7 @@ Connect the drive, insert an audio CD, and listen through headphones, an amplifi
 The player works as a USB host and reads the audio data from the disc digitally.
 Use it with the bundled drive or one of the [supported drives](#supported-drives).
 
-The player is available on [Etsy](https://elehobica.etsy.com/listing/4607409462).
+The player is available on [Tindie](https://www.tindie.com/products/44668/) and [Etsy](https://elehobica.etsy.com/listing/4607409462).
 
 ### Key features
 
